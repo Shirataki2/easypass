@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.16.4"
+  },
+  "dependencies": {
+    "letsencrypt-express": "^2.0.7",
+    "spdy": "^4.0.0"
   }
 }
